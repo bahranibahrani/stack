@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on    Bahrani</title>
+        <link>http://localhost:1313/post/</link>
+        <description>Recent content in Posts on    Bahrani</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Selamat Datang di Ruang Digital Saya!</title>
+        <link>http://localhost:1313/post/selamat-datang/</link>
+        <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/selamat-datang/</guid>
+        <description>&lt;p&gt;Halo semua!&lt;/p&gt;
+&lt;p&gt;Selamat datang di blog pribadi saya. Ini adalah tulisan pertama, sebuah penanda dimulainya perjalanan saya dalam berbagi cerita, pengetahuan, dan pemikiran di dunia digital.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mengapa Blog Ini Ada?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Di tengah derasnya arus informasi, saya merasa perlu memiliki sebuah &amp;ldquo;rumah&amp;rdquo; sendiri di internet. Tempat di mana saya bisa menyusun pemikiran dengan lebih terstruktur, mendokumentasikan apa yang saya pelajari, dan mungkin, memberikan sedikit manfaat bagi siapa pun yang mampir. Blog ini saya dedikasikan sebagai wadah untuk eksplorasi dan pembelajaran.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Apa Saja yang Akan Anda Temukan di Sini?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Konten di blog ini akan sangat beragam, mencerminkan minat dan rasa penasaran saya. Beberapa topik utama yang kemungkinan besar akan sering saya bahas antara lain:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Teknologi dan Pemrograman:&lt;/strong&gt; Sebagai seorang yang berkecimpung di dunia IT, saya akan banyak berbagi tentang tips coding, ulasan teknologi, tutorial, dan catatan seputar pengembangan perangkat lunak.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Proyek Pribadi (Side Projects):&lt;/strong&gt; Saya senang mengoprek dan membangun sesuatu di waktu luang. Di sini saya akan mendokumentasikan proses pembuatan proyek-proyek tersebut, dari ide hingga implementasi, lengkap dengan tantangan dan pembelajarannya.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Catatan Kehidupan dan Opini:&lt;/strong&gt; Tidak melulu soal teknis, saya juga akan berbagi pemikiran tentang produktivitas, buku yang saya baca, film yang saya tonton, atau sekadar opini tentang isu-isu yang menarik perhatian saya.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Server Rumahan (Home Server):&lt;/strong&gt; Salah satu hobi saya adalah mengelola server di rumah. Saya akan berbagi pengalaman dalam membangun dan memelihara &lt;em&gt;homelab&lt;/em&gt;, mulai dari pemilihan perangkat keras hingga konfigurasi layanan seperti media server, automasi, dan lain-lain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Mari Terhubung&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Saya harap Anda menemukan sesuatu yang bermanfaat atau setidaknya menarik di sini. Blog ini juga merupakan cara saya untuk belajar dari Anda semua. Jangan ragu untuk meninggalkan komentar, memberikan masukan, atau sekadar menyapa.&lt;/p&gt;
+&lt;p&gt;Terima kasih sudah berkunjung, dan selamat membaca!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Artikel Baru untuk Pencarian</title>
+        <link>http://localhost:1313/post/artikel-baru-untuk-pencarian/</link>
+        <pubDate>Fri, 29 Aug 2025 17:00:00 +0700</pubDate>
+        
+        <guid>http://localhost:1313/post/artikel-baru-untuk-pencarian/</guid>
+        <description>&lt;p&gt;Ini adalah artikel baru yang dibuat untuk tujuan pengujian pencarian. Kata kunci unik untuk artikel ini adalah &lt;strong&gt;GeminiTestArticle&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Anda bisa mencoba mencari artikel ini setelah fitur pencarian diperbaiki.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Artikel Tes Baru</title>
+        <link>http://localhost:1313/post/artikel-tes-baru-copy/</link>
+        <pubDate>Fri, 29 Aug 2025 14:00:00 +0700</pubDate>
+        
+        <guid>http://localhost:1313/post/artikel-tes-baru-copy/</guid>
+        <description>&lt;p&gt;Ini adalah artikel untuk menguji fitur pencarian. Kata kunci unik: GeminiSearchTest.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Artikel Tes Baru</title>
+        <link>http://localhost:1313/post/artikel-tes-baru/</link>
+        <pubDate>Fri, 29 Aug 2025 14:00:00 +0700</pubDate>
+        
+        <guid>http://localhost:1313/post/artikel-tes-baru/</guid>
+        <description>&lt;p&gt;Ini adalah artikel untuk menguji fitur pencarian. Kata kunci unik: GeminiSearchTest.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

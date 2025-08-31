@@ -1,0 +1,63 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "   Bahrani"
+theme = "stack"  # Ensure the theme name is correct (in this case, it's "stack").
+
+# Enable SCSS processing
+[params]
+  scss = "themes/stack/assets/scss"  # Path for SCSS files used by the theme.
+
+# Menu configuration
+[menu]
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+    identifier = "home"
+    [menu.main.params]
+        icon = "home"
+        newTab = false
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 20
+    identifier = "about"
+    [menu.main.params]
+        icon = "user"
+        newTab = false
+[[menu.main]]
+    name = "Archives"
+    url = "/archives/"
+    weight = 30
+    identifier = "archives"
+    [menu.main.params]
+        icon = "archives"
+        newTab = false
+
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 35
+    identifier = "categories"
+    [menu.main.params]
+        icon = "categories"
+        newTab = false
+
+#[[menu.main]]
+#    name = "Search"
+#    url = "/search/"
+#    weight = 40
+#    identifier = "search"
+#    [menu.main.params]
+#        icon = "search"
+#        newTab = false
+
+[[sidebar]]
+    emoji = "🚜"
+    subtitle = "This is an example website"
+
+[params.sidebar.avatar]
+  enabled = true
+  local = true
+  src = "img/photo_2025-06-26_10-58-39.jpg"

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Contoh on    Bahrani</title>
+        <link>http://localhost:1313/categories/contoh/</link>
+        <description>Recent content in Contoh on    Bahrani</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 29 Aug 2025 17:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/contoh/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Artikel Baru untuk Pencarian</title>
+        <link>http://localhost:1313/post/artikel-baru-untuk-pencarian/</link>
+        <pubDate>Fri, 29 Aug 2025 17:00:00 +0700</pubDate>
+        
+        <guid>http://localhost:1313/post/artikel-baru-untuk-pencarian/</guid>
+        <description>&lt;p&gt;Ini adalah artikel baru yang dibuat untuk tujuan pengujian pencarian. Kata kunci unik untuk artikel ini adalah &lt;strong&gt;GeminiTestArticle&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Anda bisa mencoba mencari artikel ini setelah fitur pencarian diperbaiki.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

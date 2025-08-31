@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on    Bahrani</title>
+        <link>http://localhost:1313/categories/</link>
+        <description>Recent content in Categories on    Bahrani</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Pribadi</title>
+        <link>http://localhost:1313/categories/pribadi/</link>
+        <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/pribadi/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Umum</title>
+        <link>http://localhost:1313/categories/umum/</link>
+        <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/umum/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Contoh</title>
+        <link>http://localhost:1313/categories/contoh/</link>
+        <pubDate>Fri, 29 Aug 2025 17:00:00 +0700</pubDate>
+        
+        <guid>http://localhost:1313/categories/contoh/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Home Server</title>
+        <link>http://localhost:1313/categories/home-server/</link>
+        <pubDate>Fri, 29 Aug 2025 14:00:00 +0700</pubDate>
+        
+        <guid>http://localhost:1313/categories/home-server/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
